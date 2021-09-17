@@ -1,1 +1,8 @@
-@import "reset.css"
+@import "reset.css";
+.block_row{
+    border: 2px dotted black;
+
+}
+.block_column{
+border: 2px dotted black;
+}
