@@ -1,6 +1,9 @@
 @import "reset.css";
+.block{
+    text-align: center;
+}
 .block_row{
-    display: flex;
+    display: inline-flex;
     border: 2px dotted black;
     background-color: cornflowerblue,;
     margin: 5px 5px 5px 5px;
@@ -12,6 +15,7 @@
     margin: 5px 5px 5px 5px;
 }
 .block_item{
+    border: 2px dotted black;
     background-color: gold;
     margin: 5px 5px 5px 5px;
 
