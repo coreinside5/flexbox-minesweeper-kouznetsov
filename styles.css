@@ -18,5 +18,8 @@
     border: 2px dotted black;
     background-color: gold;
     margin: 5px 5px 5px 5px;
-
+}
+.imageformat{
+    width: 10px;
+    height: 10px;
 }
