@@ -1,8 +1,18 @@
 @import "reset.css";
 .block_row{
+    display: flex;
     border: 2px dotted black;
+    background-color: cornflowerblue,;
+    margin: 5px 5px 5px 5px;
 
 }
 .block_column{
-border: 2px dotted black;
+    border: 2px dotted black;
+    background-color: darkorange;
+    margin: 5px 5px 5px 5px;
+}
+.block_item{
+    background-color: gold;
+    margin: 5px 5px 5px 5px;
+
 }
