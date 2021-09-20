@@ -1,23 +1,22 @@
 @import "reset.css";
 .block{
     text-align: center;
+    border: 1px rgb(90, 90, 90);
+    border-style:dotted;
 }
 .block_row{
     display: inline-flex;
-    /*border: 2px dotted black;
-    background-color: cornflowerblue,;*/
     margin: 0px 0px 0px 0px;
 
 }
 .block_column{
-    /*border: 2px dotted black;
-    background-color: darkorange;*/
     margin: 0px 0px 0px 0px;
 }
 .block_item{
-    /*border: 2px dotted black;
-    background-color: gold;*/
+    border: 1px rgb(90, 90, 90);
+    border-style:dotted;
     margin: 0px 0px 0px 0px;
+    font-size: 0px;
 }
 .imageformat{
     width: 20px;
