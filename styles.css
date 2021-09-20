@@ -1,12 +1,13 @@
 @import "reset.css";
 .block{
     text-align: center;
-    border: 1px rgb(90, 90, 90);
-    border-style:dotted;
+   
 }
 .block_row{
     display: inline-flex;
     margin: 0px 0px 0px 0px;
+    border: 5px rgb(90, 90, 90);
+    border-style:double;
 
 }
 .block_column{
