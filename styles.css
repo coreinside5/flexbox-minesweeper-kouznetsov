@@ -24,3 +24,12 @@
     height: 20px;
     
 }
+.animatetile{
+    width: 20px;
+    height: 20px;
+    background: url("images/veil2.png") no-repeat;
+}
+.animatetile:hover{
+    background:url("images/bomb20x20.png") no-repeat;
+
+}
